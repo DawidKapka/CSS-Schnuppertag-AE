@@ -1,6 +1,6 @@
 ## Slot Machine
 
-In dieser Aufgabe erstellst du einen Spielautomaten. Der Spielautomat besteht aus 3 Reihen à je 5 Felder, also insgesamt 15 Feldern.
+In dieser Aufgabe erstellst du einen Spielautomat. Der Spielautomat besteht aus 3 Reihen à je 5 Felder, also insgesamt 15 Feldern.
 Die Felder können jeweils eins von den folgenden Symbolen enthalten: `9`, `10`, `J`, `Q`, `K`, `A`
 ```shell
 Beispiel:
