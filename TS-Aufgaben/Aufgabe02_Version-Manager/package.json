@@ -1,0 +1,20 @@
+{
+  "name": "aufgabe02_version-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.4.0",
+    "@types/mocha": "^10.0.1",
+    "ts-jest": "^29.0.5"
+  }
+}

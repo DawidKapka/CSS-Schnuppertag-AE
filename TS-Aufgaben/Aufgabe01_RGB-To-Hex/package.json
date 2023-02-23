@@ -1,0 +1,19 @@
+{
+  "name": "01_rgb-to-hex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.4.0",
+    "@types/mocha": "^10.0.1",
+    "ts-jest": "^29.0.5"
+  }
+}
