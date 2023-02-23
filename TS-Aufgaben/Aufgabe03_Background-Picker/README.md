@@ -9,7 +9,8 @@ Falls das Feld leer ist, oder die Farbe ungültig, soll das Hintergrund als Stan
 
 ****
 
-**Diese Aufgabe ist etwas anders als die übrigen aufgebaut. Um die Applikation zu starten, gib im Terminal `npm run start:03` (im `TS-Aufgaben/` Ordner) ein. Dieser Befehl startet einen lokalen Server. Danach kannst du die Applikation öffnen, in dem du in deinem Browser `http://localhost:8080` eingibst.**
+**Diese Aufgabe ist etwas anders als die übrigen aufgebaut. Um die Applikation zu starten, gib im Terminal `npm run start:03` (im `TS-Aufgaben/` Ordner) ein. Dieser Befehl startet einen lokalen Server. Danach kannst du die Applikation öffnen, in dem du in deinem Browser `http://localhost:8080` eingibst.**\
+> **Wichtig**: Befor du die Tests für diese Aufgabe ausführst musst du zuerst sicherstellen, dass der lokale server gestartet ist.
 
 ****
 

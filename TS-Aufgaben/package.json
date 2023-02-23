@@ -10,6 +10,7 @@
     "install:03": "cd Aufgabe03_Background-Picker && npm i",
     "test:01": "cd Aufgabe01_RGB-To-Hex && npm test",
     "test:02": "cd Aufgabe02_Version-Manager && npm test",
+    "test:03": "cd Aufgabe03_Background-Picker && npm test",
     "start:03": "cd Aufgabe03_Background-Picker && npm run start"
   },
   "keywords": [],
