@@ -1,4 +1,3 @@
-export function rgbToHex(red: number, green: number, blue: number) : string {
+export function rgbToHex() : string {
     // TODO
-    return ''
 }

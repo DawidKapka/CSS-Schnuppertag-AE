@@ -1,9 +1,9 @@
 ## Version-Manager
 
-Das Ziel dieser aufgabe ist es, einen einfache Version-Manager zu erstellen.
+Das Ziel dieser aufgabe ist es, einen einfachen Version-Manager zu erstellen.
 Der Manager soll die Version einer Software beinhalten und diese verwalten können.\
-Die Version besteht insgesamt aus einer `Major`, `Minor` und `Patch` Version, z.B. `v1.12.4` (MAJOR = 1, MINOR = 12, PATCH = 4).
-Dazu sollst du eine neue VersionManager-Klasse erstellen, welche das IVersionManager-Interface implementiert folgende Methoden enthaltet:
+Die Version besteht jeweils aus einer `Major`, `Minor` und `Patch` Version, z.B. `v1.12.4` (MAJOR = 1, MINOR = 12, PATCH = 4).
+Dazu sollst du eine neue VersionManager-Klasse erstellen, welche das IVersionManager-Interface implementiert und folgende Methoden enthaltet:
 
 - `major()`: erhöht die `MAJOR` Version um 1 und setzt die `MINOR` und `PATCH` Versionen auf 0 zurück.
 - `minor()`: erhöht die `MINOR` Version um 1 und setzt die `PATCH` Version auf 0 zurück.
