@@ -4,7 +4,7 @@
   "description": "In diesem Ordner findest du verschiedene kleine Typescipt-Aufgaben.",
   "main": "index.js",
   "scripts": {
-    "install:all": "npm run install:01 && npm run install:02",
+    "install:all": "npm run install:01 && npm run install:02 && npm run install:03",
     "install:01": "cd Aufgabe01_RGB-To-Hex && npm i",
     "install:02": "cd Aufgabe02_Version-Manager && npm i",
     "install:03": "cd Aufgabe03_Background-Picker && npm i",
